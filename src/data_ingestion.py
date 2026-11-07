@@ -36,6 +36,7 @@ sum_pz=ak.sum(good_pseudojets.pz,axis=1)
 missing_px=-sum_px
 missing_py=-sum_py
 missing_pz=-sum_pz
+#pvisible+pmissing=0
 
 visible_energy = np.sqrt(
     good_pseudojets.px**2 + 

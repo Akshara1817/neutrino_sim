@@ -1,0 +1,10 @@
+plotly
+skhep
+skhep_testdata
+uproot
+awkward
+particle
+hepunits
+vector
+numpy
+matplotlib
