@@ -1,6 +1,5 @@
 plotly
-skhep
-skhep_testdata
+scikit-hep-testdata
 uproot
 awkward
 particle
@@ -8,3 +7,6 @@ hepunits
 vector
 numpy
 matplotlib
+fastjet
+aiohttp
+hist
