@@ -1,0 +1,7 @@
+{
+  "pythia_ppZee_run17emb": {
+    "description": "Pythia proton-proton Z to electron-positron embedded picoDst sample",
+    "url": "https://zenodo.org/records/21777191/files/pythia_ppZee_run17emb.picoDst.root",
+    "tree": "PicoDst"
+  }
+}
